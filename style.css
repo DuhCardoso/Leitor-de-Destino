@@ -11,10 +11,10 @@ body{
     color: white;
     text-align: center;
     font-family: sans-serif;
-    margin-block: 3rem;
 }
 
 #container{
+    margin-block: 4rem;
     width: 80%;
     max-width: 40rem;
     margin-inline: auto;
